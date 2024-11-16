@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">examem_sem13</string>
+    <string name="teacher_image_description">Imagen del profesor</string>
+    <string name="teacher_name">Nombre Apellido</string>
+    <string name="teacher_email">email@domain.com</string>
+    <string name="lista_de_profesores_de_tecsup">Lista de profesores de Tecsup</string>
+</resources>
